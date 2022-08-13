@@ -1,0 +1,9 @@
+Hello!
+
+I've created this weather app using JavaScript to test out some of my learnings till now.
+I've taken the help of "Code Explained" for this app.
+
+In this app I've used OpenWeatherMap as API provider:
+http://api.openweathermap.org/data/2.5/weather?lat="latitude"&lon="longitude"&appid="Key"
+
+we can get the key after creating an account on OpenWeatherMap, however I've used the key as provided by the "Code Explained"
